@@ -1,0 +1,40 @@
+---
+title: "Single Cell RNA-Seq Analysis"
+author: "Carlos Sainz"
+date: '2023-06-06'
+output:
+  html_document:
+    toc: true
+    toc_depth: 6
+    toc_float: true
+---
+
+# Introduction
+This file shows single cell RNA-seq data pipeline that we will possibly follow.
+
+![**Workflow for Single Cell RNA-Seq**](Images/Workflow scRNA.png)
+
+
+# Wet Lab Quality Control
+
+
+# Read Alignment, Cell Calling and Feature Counting
+
+# Quality Control
+
+# Count normalisation
+
+# Feature Selection
+
+# Dimensionality Reduction
+
+# Data Set Integration
+
+# Clustering
+
+# Cluster Marker Genes
+
+# Differential Expression Between Conditions
+
+# Differential Abundance Between Conditions
+

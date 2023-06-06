@@ -1,0 +1,47 @@
+---
+title: "Bulk RNA-Seq Analysis"
+author: "Carlos Sainz"
+date: '2023-06-06'
+output:
+  html_document:
+    toc: true
+    toc_depth: 6
+    toc_float: true
+---
+
+# Introduction
+This file shows bulk RNA-seq data pipeline that we will possibly follow.
+
+![**Workflow for Bulk RNA-Seq**](Images/Workflow bulkRNA.png)
+The pipeline that I've used for this example is from the course that was given last year, as I will be attending this course in a couple of weeks.
+
+# Experimental Design
+
+# Aligning to the Genome
+
+# Quality Control
+
+![**PCA Plot of All Samples**](Plots/PCA Plot All Samples.png){width=110%}
+![**Normalisation of Data**](Plots/Diff log2 Normalised Data.png){width=110%}
+
+
+# Quantify Gene Expression (Staistical Analysis)
+
+# Differential Gene Expression Analysis
+
+![**Volcano Plot of Uninfected vs. Infected Samples**](Plots/Uninf vs Inf Samples VolcanoPlot.png){width=110%}
+![**Heat Map of All Samples Uninfected vs. Infected**](Plots/HeatMap All Samples Uninfvs.Inf.png){width=110%}
+
+# **Important Note**
+
+Data visualisation and publication varies between publishers, field of interest, and personal preference.
+
+For each analysis that is done, there needs to be a more in depth reading for bioinformatic analysis in the field to properly display the data for publication.
+
+*This will obviously be discussed with each experiment, and it a continous discussion to find the best way to display the results.*
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+name: "RMD-Template-CSZ"
+navbar:
+  title: "R MarkDown Website Template"
+  left:
+    - text: "Introduction"
+      href: index.html
+    - text: "Bulk RNA-seq"
+      href: BulkRNASeq.html
+    - text: "Single Cell RNA-Seq"
+      href: SingleCellRNASeq.html
+    - text: "About"
+      href: about.html
+      

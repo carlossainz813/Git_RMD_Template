@@ -1,0 +1,14 @@
+---
+title: "About this RMarkDown"
+author: "Carlos Sainz"
+date: '2023-06-06'
+output:
+  html_document:
+    toc: true
+    toc_depth: 6
+    toc_float: true
+---
+# About Document
+This document will serve as a potential template for future use for the analysis of different experiments.
+
+You can find more information about the lab [here](http://websitebuilder.123-reg.co.uk/preview/db5c321f). 
